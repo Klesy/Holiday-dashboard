@@ -3,7 +3,7 @@
 In this report we can see the vacation chart or leave chart of the Employees. Here, we can see the yearly leave & sick leave chart. Anyone, also get to know that how much leave is remaining. 
 From the option drill down we can directly go to the pie chart or corresponding graph from the table which consists information.
 ### ![D 2](https://user-images.githubusercontent.com/80387652/110642416-e917b300-81aa-11eb-93df-99e7886a8bc6.png)
-# Table 1: Vacation & sick leave chart of the employees. 
+### Table 1: Vacation & sick leave chart of the employees. 
 ## Drill Down Process
 For data drilling we need multiple pages with the main page which consists table/chart. Then in each & every multiple page we need to set category which we want to drill down. After that if we click on the blank space of the multiple page, i.e. page 1 or 2 then we need to add the drill down level below the visualization tool on right side. Finally, in master page we need to right click on the drill down category. 
 ### ![](https://user-images.githubusercontent.com/80387652/110650489-7f9ba280-81b2-11eb-8fbf-b7a9f7fd0dd2.png)
