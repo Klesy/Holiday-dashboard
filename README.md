@@ -10,3 +10,5 @@ From any graph we can go back to the corresponding table which consists the deta
 ![D 5](https://user-images.githubusercontent.com/80387652/110654334-f38b7a00-81b5-11eb-8f89-5bf5c4d59086.jpg)
 The following diagram shows the bookmark option. If we click any name in the table below, it will show all the information of that employee on the upper table.
 ![D 4](https://user-images.githubusercontent.com/80387652/110653412-22552080-81b5-11eb-8542-269e684bc23e.png)
+![D 6](https://user-images.githubusercontent.com/80387652/110655513-06527e80-81b7-11eb-9341-a402067fb09f.jpg)
+We can also go go several pages by drill down buttons. This button is i  the upper left side, we can also add image to that button. By CTRL+click we can move to our desired page.
