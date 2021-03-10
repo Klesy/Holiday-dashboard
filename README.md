@@ -20,6 +20,6 @@ From any pie chart we can go back to the corresponding table which consists the 
 We can go to several pages by drill down buttons. This button is in the upper left side, we can also add image to that button. By CTRL+click we can move to our desired page.
 ## Bookmark Process
 The following diagram shows the bookmark option. If we click any name in the table below, it will show all the information of that employee on the upper table.
-#### ![D 4](https://user-images.githubusercontent.com/80387652/110653412-22552080-81b5-11eb-8542-269e684bc23e.png)
-### Figure 5: This figure represents the bppkmark options.
+### ![D 4](https://user-images.githubusercontent.com/80387652/110653412-22552080-81b5-11eb-8542-269e684bc23e.png)
+### Figure 5: This figure represents the bookmark options.
 The bookmark is specially used to move from one table to another table by the category level.
