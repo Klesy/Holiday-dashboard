@@ -1,4 +1,4 @@
-**Holiday-Dashboard
+# Holiday-Dashboard
 ## Yearly leave document
 In this report we can see the vacation chart or leave chart of the Employees. Here, we can see the yearly leave & sick leave chart. Anyone, also get to know that how much leave is remaining. 
 From the option drill down we can directly go to the pie chart or corresponding graph from the table which consists information.
