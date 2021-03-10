@@ -6,4 +6,5 @@ From the option drill down we can directly go to the pie chart or corresponding 
 This diagram shows the drill down option on the table, from which we can move to the other page. 
 ![](https://user-images.githubusercontent.com/80387652/110650489-7f9ba280-81b2-11eb-8fbf-b7a9f7fd0dd2.png)
 ![D1 20](https://user-images.githubusercontent.com/80387652/110638156-1ca40e80-81a6-11eb-8d2d-52ada0e6cd3b.png)
+The following diagram shows the bookmark option. If we click any name in the table below, it will show all the information of that employee on the upper table.
 ![D 4](https://user-images.githubusercontent.com/80387652/110653412-22552080-81b5-11eb-8542-269e684bc23e.png)
